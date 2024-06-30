@@ -33,11 +33,11 @@ import {
 } from '~/assets/thumbnails';
 
 // Video Api
-const URL = 'https://s3.us-east-2.amazonaws.com/lofi.co/lofi.co/scenes/';
+const URL = 'https://lofi-co-assets.vexcited.com/scenes/';
 // Wallpaper Api
-const URLW = 'https://s3.us-east-2.amazonaws.com/lofi.co/lofi.co/wallpapers/';
+const URLW = 'https://lofi-co-assets.vexcited.com/wallpapers/';
 
-const URL_NEW = 'https://lofi-new.s3.us-east-2.amazonaws.com/';
+const URL_NEW = 'https://lofi-co-assets.vexcited.com/scenes/';
 
 export const scenes = {
     forestInside: {
