@@ -26,18 +26,6 @@ export const fetchCustomTracks = async () => {
             jazzy: playlistsBase.jazzy.filter((e, i) => !exclude[1].includes(i + 1)),
             sleepy: playlistsBase.sleepy.filter((e, i) => !exclude[2].includes(i + 1)),
         };
-        // tracksRaw.forEach((e) => {
-        //     if (e[4].toUpperCase() === 'TRUE') {
-        //         const obj = {
-        //             title: e[0],
-        //             url: e[3],
-        //             social_link: e[2],
-        //         };
-        //         if (['jazzy', 'sleepy', 'chill'].includes(e[1])) {
-        //             customTracks[e[1]].push(obj);
-        //         }
-        //     }
-        // });
 
         tracksRaw2.forEach((e) => {
             if (e['bool'].toUpperCase() === 'TRUE') {
