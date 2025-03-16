@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+<a id="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<div align="center">
+  <img src="https://lofi.io.vn/static/media/logo.0cbf9e63b4a021661126.gif" width="250px"/>
+  <h1>Lofi Chill</h1>
+  <h3>A Lofi website inpired by Lofi.co</h3>
+  <h3>Our application is live! Check it out here: <a href="https://lofi.io.vn/">Lofi Chill</a></h3>
+  <hr />
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm start`
+![image](https://phongli.is-a.dev/_next/image?url=%2Fassets%2Fimages%2Fprojects%2Flofico.png&w=1920&q=75)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- This is a **Lofi Website** inspired by Lofi.co.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- This website has lofi beats, ambient sound effects and aesthetic visuals.
 
-### `npm test`
+- These visuals supports day, night and even rain modes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built With
+This project was built with
 
-### `npm run build`
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,firebase)]()
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- Features -->
+### Features
+1. **Over 90 Lofi Tracks Across 3 Unique Moods:** Chill, Jazzy, and Sleepy.
+2. **Calm & Ambient Nature Sounds** to Enhance Your Focus and Relaxation.
+3. **Aesthetic Visuals** with 8 Customizable Themes for Every Mood.
+4. **Dynamic Visual Modes:** Seamlessly Transition Between Day, Night, and Rainy Scenes.
+5. **Playlists & Templates** Save your favorite combinations or use pre-made sets.
+6. **Integrated Todo List:** Effortlessly Organize and Track Your Tasks. (upcomming)
+7. **Pomodoro Timer:** Boost Your Productivity with Timed Focus Sessions. (upcomming)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
