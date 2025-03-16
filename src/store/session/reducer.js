@@ -3,7 +3,7 @@ import { sets } from '~/assets/data/sets.data';
 
 const randomNumber = Math.floor(Math.random() * playlistsBase.chill.length);
 const INITIAL_STATE = {
-    set: sets[0],
+    set: sets[1],
     sceneIndex: 0,
     sceneEffect: { active: false, effect: null },
     night: false,
@@ -59,15 +59,15 @@ function reducer(state, action) {
                 newSceneEffect =
                     action.payload.effect !== state.sceneEffect.effect
                         ? {
-                              ...state.sceneEffect,
-                              active: true,
-                              effect: action.payload.effect,
-                          }
+                            ...state.sceneEffect,
+                            active: true,
+                            effect: action.payload.effect,
+                        }
                         : {
-                              ...state.sceneEffect,
-                              active: !state.sceneEffect.active,
-                              effect: undefined,
-                          };
+                            ...state.sceneEffect,
+                            active: !state.sceneEffect.active,
+                            effect: undefined,
+                        };
 
             return { ...state, sceneEffect: newSceneEffect };
         }
